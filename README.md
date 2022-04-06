@@ -4,6 +4,9 @@
   <p align="center">Já dá um follow aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
 </div>
 
+<img src="https://github.com/goswami-rahul/alien-invasion-game/blob/master/assets/demo.gif" width=1000>
+
+
 <div><img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.giff" width="100%" alt="This is an animated gif mario developer"/>
 </div>
 
