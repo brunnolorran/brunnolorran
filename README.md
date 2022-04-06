@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/brunnolorran/"><i>Brunno Lorran</i></a> 😃️</h1>
-  <p align="center">Estudo e trabalho com Qualidade de Software e Desenvolvimento Web.<br>
+  <p align="center">Estudo e trabalho com Design UI e Desenvolvimento Web.<br>
   <p align="center">Já dá um follow aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
 </div>
 
