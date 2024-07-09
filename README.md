@@ -28,6 +28,7 @@
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="wordpress" height="30" width="30" src="/assets/wordpress.png">
+  <img align="center" alt="php" height="30" width="30" src="/assets/php.png">
 </div><br>
 
 <div align="center">
