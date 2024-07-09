@@ -38,11 +38,5 @@
 </div>
 
 <div align="center">
-  
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12143531014&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-  
-</div>
-
-<div align="center">
   <p>Feito com :heart: e JavaScript.</p>
 </div>
