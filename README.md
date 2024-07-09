@@ -24,11 +24,12 @@
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="php" height="30" width="30" src="/assets/icon-php.png">
   <img align="center" alt="adobexd" height="40" width="40" src="/assets/xd.png">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="wordpress" height="30" width="30" src="/assets/wordpress.png">
-  <img align="center" alt="php" height="30" width="30" src="/assets/icon-php.png">
+  
 </div><br>
 
 <div align="center">
